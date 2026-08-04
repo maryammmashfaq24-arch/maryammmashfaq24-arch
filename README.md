@@ -31,7 +31,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Data%20Structures-333333?style=flat" />
   <img src="https://img.shields.io/badge/File%20Handling-333333?style=flat" />
-  <img src="https://img.shields.io/badge/OOP-333333?style=flat" />
   <img src="https://img.shields.io/badge/Problem%20Solving-333333?style=flat" />
 </p>
 
