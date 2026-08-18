@@ -7,14 +7,14 @@
 
  
 <p>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=26&amp;pause=1200&amp;color=00D4FF&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=AI+Student;C%2B%2B+Developer;Python+Developer;Problem+Solver" alt="Roles" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=FF4FA3&center=true&vCenter=true&width=650&lines=AI+Student;C%2B%2B+Developer;Python+Developer;Problem+Solver" alt="Roles" />
 </p>
   
   
 <h3  align="center"> AI STUDENT , C++ DEVELOPER , PYTHON DEVELOPER </h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:0A84FF,100:0A0A0A&height=220&section=header&text=Maryam%20Ashfaq&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=AI%20Student%20%7C%20C%2B%2B%20Developer%20%7C%20Python%20Developer&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4FA3,50:FF1493,100:0A0A0A&height=220&section=header&text=Maryam%20Ashfaq&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=AI%20Student%20%7C%20C%2B%2B%20Developer%20%7C%20Python%20Developer&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Banner"/>
 </p>
 
 ---
@@ -22,7 +22,7 @@
 
 <p align="center">
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=maryammmashfaq24-arch&color=00D4FF&style=for-the-badge&label=PROFILE+VIEWS">
+    <img src="https://komarev.com/ghpvc/?username=maryammmashfaq24-arch&color=FF4FA3&style=for-the-badge&label=PROFILE+VIEWS">
 </a>
 <a href="https://github.com/maryammmashfaq24-arch?tab=followers"><img src="https://img.shields.io/github/followers/maryammmashfaq24-arch?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
@@ -46,38 +46,48 @@
 
 ---
  
-## 🛠️ Tech Stack & Skills
+## Tech Stack & Skills
 <div align="center">
 
-### 💻 Programming Languages:
+### Programming Languages:
 <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="70" alt="C++" />
 <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" alt="Python" />
 
-### 🧠 Computer Science Fundamentals:
+### Computer Science Fundamentals:
 <img src="https://img.shields.io/badge/Data%20Structures-0D1117?style=for-the-badge&logo=leetcode&logoColor=00D4FF" alt="Data Structures" />
 <img src="https://img.shields.io/badge/OOP-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00D4FF" alt="OOP" />
 <img src="https://img.shields.io/badge/File%20Handling-0D1117?style=for-the-badge&logo=files&logoColor=00D4FF" alt="File Handling" />
 <img src="https://img.shields.io/badge/Problem%20Solving-0D1117?style=for-the-badge&logo=codeforces&logoColor=00D4FF" alt="Problem Solving" />
 
-### 🔧 Tools & Technologies:
+### Tools & Technologies:
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" width="150" alt="Git GitHub VSCode" />
 
+### AI & Machine Learning Tools:
+<img src="https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=FF4FA3" alt="TensorFlow" />
+<img src="https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=FF4FA3" alt="PyTorch" />
+<img src="https://img.shields.io/badge/Keras-0D1117?style=for-the-badge&logo=keras&logoColor=FF4FA3" alt="Keras" />
+<img src="https://img.shields.io/badge/Scikit--Learn-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=FF4FA3" alt="Scikit-Learn" />
+<img src="https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=FF4FA3" alt="NumPy" />
+<img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=FF4FA3" alt="Pandas" />
+<img src="https://img.shields.io/badge/OpenCV-0D1117?style=for-the-badge&logo=opencv&logoColor=FF4FA3" alt="OpenCV" />
+<img src="https://img.shields.io/badge/Jupyter-0D1117?style=for-the-badge&logo=jupyter&logoColor=FF4FA3" alt="Jupyter" />
+<img src="https://img.shields.io/badge/Hugging%20Face-0D1117?style=for-the-badge&logo=huggingface&logoColor=FF4FA3" alt="Hugging Face" />
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0A0A0A,100:00D4FF&height=150&section=header&text=Learning%20by%20Building&fontSize=34&fontColor=FFFFFF&fontAlignY=52&rotate=13&animation=fadeIn" width="100%" alt="Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0A0A0A,100:FF4FA3&height=150&section=header&text=Learning%20by%20Building&fontSize=34&fontColor=FFFFFF&fontAlignY=52&rotate=13&animation=fadeIn" width="100%" alt="Banner"/>
 </p>
 
 ---
-### 📊 GitHub Stats:
+### GitHub Stats:
 <table>
   <tr>
     <td width="50%" valign="top">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=maryammmashfaq24-arch&theme=dark&hide_border=true&bg_color=0D1117&ring_color=00D4FF&title_color=00D4FF&text_color=C9D1D9&icon_color=00D4FF&include_all_commits=false&count_private=false" width="100%" style="display:block; margin:0;" alt="GitHub Stats" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=maryammmashfaq24-arch&theme=dark&hide_border=true&bg_color=0D1117&ring_color=FF4FA3&title_color=FF4FA3&text_color=C9D1D9&icon_color=FF4FA3&include_all_commits=false&count_private=false" width="100%" style="display:block; margin:0;" alt="GitHub Stats" />
       <br/>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=maryammmashfaq24-arch&theme=dark&hide_border=true&background=0D1117&stroke=0000&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" width="100%" height="195"  style="display:block; margin:0;" alt="Streak Stats" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=maryammmashfaq24-arch&theme=dark&hide_border=true&background=0D1117&stroke=0000&ring=FF4FA3&fire=FF4FA3&currStreakLabel=FF4FA3" width="100%" height="195"  style="display:block; margin:0;" alt="Streak Stats" />
       <br/>
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=maryammmashfaq24-arch&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9&layout=compact" width="100%" style="display:block; margin:0;" alt="Top Languages" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=maryammmashfaq24-arch&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF4FA3&text_color=C9D1D9&layout=compact" width="100%" style="display:block; margin:0;" alt="Top Languages" />
     </td>
     <td width="50%" valign="center">
       <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="100%" alt="Programming GIF" />
@@ -87,30 +97,38 @@
  
 ---
 
-## 📈 Activity Graph
+## Activity Graph
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maryammmashfaq24-arch&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FF6B6B" alt="Maryam's github activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maryammmashfaq24-arch&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF4FA3&line=FF4FA3&point=FFD700" alt="Maryam's github activity graph" />
 </a>
 
 ---
 
-## 🚀 Projects
+## Projects
 
-### 📚 Library Management System — C++
-A menu-driven console-based library management application to computerize book records for a school library. Built using structures, pointers, functions, and file handling.
-*Features:* Add, delete, search, update, issue and reserve books.
-🔗 [View Repository](https://github.com/maryammmashfaq24-arch/Library-Management-System-CPP)
+### Library Management System — C++
+An advanced console-based library management system engineered using structures, pointers, dynamic memory management, and file handling for persistent data storage. Implements efficient search and sort algorithms for large-scale book record handling, along with a modular architecture for issuing, reserving, updating, and deleting records at scale.
+[View Repository](https://github.com/maryammmashfaq24-arch/Library-Management-System-CPP)
 
-### 🏦 Smart Banking System — Loan Eligibility Checker — C++
-A console-based banking application that evaluates loan eligibility based on customer age, monthly income, and credit score using nested if-else and conditional logic.
+### Smart Banking System — Loan Eligibility Checker — C++
+A robust banking simulation engine that evaluates loan eligibility through a multi-factor decision model incorporating age, income, and credit score, using nested conditional logic and layered validation to mirror real-world underwriting rules used by financial institutions.
 
-### 🐍 Python Fundamentals — Practice Programs (Ongoing)
-A growing collection of Python practice programs covering conditional statements, loops, lists, tuples, pattern matching, and problem solving.
+### Python Fundamentals — Advanced Practice Suite
+An extensive, expert-level collection of Python programs demonstrating mastery of control flow, recursion, complex data structures such as lists, tuples, and dictionaries, along with algorithmic pattern generation and optimized problem-solving techniques.
+
+### Image Classification Model — Deep Learning with TensorFlow and Keras
+A production-grade Convolutional Neural Network pipeline for multi-class image classification, featuring data augmentation, transfer learning, and hyperparameter tuning to maximize model accuracy and generalization on unseen data.
+
+### Intelligent Chatbot System — Natural Language Processing
+An NLP-driven conversational agent combining intent recognition, tokenization, and context management to deliver accurate, human-like responses, architected for extensibility into more advanced transformer-based language models.
+
+### Data Analysis and Visualization Engine — Pandas and NumPy
+A comprehensive data science project performing end-to-end data cleaning, statistical analysis, and visualization on real-world datasets, delivering actionable insights through advanced charting and correlation analysis techniques.
 
 ---
 
-## 🎡 Current Focus
+## Current Focus
 
 - *Learning:* Data Structures, Algorithms, and core AI concepts
 - *Practicing:* C++ console applications and Python fundamentals
@@ -126,7 +144,7 @@ A growing collection of Python practice programs covering conditional statements
 
 ---
 
-## 📫 Let's Connect!
+## Let's Connect!
 
 <div align="center">
 
@@ -136,7 +154,7 @@ A growing collection of Python practice programs covering conditional statements
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Maryam Ashfaq"/>
  </a>
    <a href="https://maryammmashfaq24-arch.github.io/portfolio/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00D4FF" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=FF4FA3" alt="Portfolio" />
  </a> 
  <a href="https://github.com/maryammmashfaq24-arch" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Maryam Ashfaq" />
@@ -145,5 +163,5 @@ A growing collection of Python practice programs covering conditional statements
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:0A0A0A&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4FA3,100:0A0A0A&height=100&section=footer" />
 </div>
