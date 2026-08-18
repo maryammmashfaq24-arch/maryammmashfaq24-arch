@@ -52,6 +52,10 @@
 ### Programming Languages:
 <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="70" alt="C++" />
 <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" alt="Python" />
+<img src="https://techstack-generator.vercel.app/java-icon.svg" width="50" alt="Java" />
+<img src="https://techstack-generator.vercel.app/js-icon.svg" width="70" alt="JavaScript" />
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="80" alt="SQL" />
+<img src="https://skillicons.dev/icons?i=c,dart&theme=dark" width="90" />
 
 ### Computer Science Fundamentals:
 <img src="https://img.shields.io/badge/Data%20Structures-0D1117?style=for-the-badge&logo=leetcode&logoColor=00D4FF" alt="Data Structures" />
@@ -59,10 +63,16 @@
 <img src="https://img.shields.io/badge/File%20Handling-0D1117?style=for-the-badge&logo=files&logoColor=00D4FF" alt="File Handling" />
 <img src="https://img.shields.io/badge/Problem%20Solving-0D1117?style=for-the-badge&logo=codeforces&logoColor=00D4FF" alt="Problem Solving" />
 
-### Tools & Technologies:
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" width="150" alt="Git GitHub VSCode" />
+### Frontend & Mobile Development:
+<img src="https://techstack-generator.vercel.app/react-icon.svg" width="60" alt="React" />
+<img src="https://skillicons.dev/icons?i=nextjs,html,css,tailwind,flutter&theme=dark" width="300" />
+
+### Backend Development:
+<img src="https://techstack-generator.vercel.app/django-icon.svg" width="40" alt="Django" />
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express&theme=dark" width="230" />
 
 ### AI & Machine Learning Tools:
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pytorch,anaconda&theme=dark" width="224" />
 <img src="https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=FF4FA3" alt="TensorFlow" />
 <img src="https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=FF4FA3" alt="PyTorch" />
 <img src="https://img.shields.io/badge/Keras-0D1117?style=for-the-badge&logo=keras&logoColor=FF4FA3" alt="Keras" />
@@ -72,6 +82,22 @@
 <img src="https://img.shields.io/badge/OpenCV-0D1117?style=for-the-badge&logo=opencv&logoColor=FF4FA3" alt="OpenCV" />
 <img src="https://img.shields.io/badge/Jupyter-0D1117?style=for-the-badge&logo=jupyter&logoColor=FF4FA3" alt="Jupyter" />
 <img src="https://img.shields.io/badge/Hugging%20Face-0D1117?style=for-the-badge&logo=huggingface&logoColor=FF4FA3" alt="Hugging Face" />
+<img src="https://img.shields.io/badge/LangGraph-0D1117?style=for-the-badge&logo=langgraph&logoColor=FF4FA3" alt="LangGraph" />
+<img src="https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logo=langchain&logoColor=FF4FA3" alt="LangChain" />
+<img src="https://img.shields.io/badge/OpenAI-0D1117?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+<img src="https://img.shields.io/badge/Ollama-0D1117?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50" alt="Matplotlib" />
+
+### Databases:
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="80" alt="MySQL" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,sqlite&theme=dark" width="270" />
+
+### Tools & Technologies:
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="60" alt="Docker" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,aws,vercel&theme=dark" width="250" />
+<img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="50" alt="Streamlit" />
+<img src="https://img.shields.io/badge/Render-0D1117?style=for-the-badge&logo=render&logoColor=FF4FA3" alt="Render" />
+<img src="https://skillicons.dev/icons?i=figma,postman,linux&theme=dark" width="150" alt="Figma Postman Linux" />
 </div>
 
 <p align="center">
@@ -113,18 +139,11 @@ An advanced console-based library management system engineered using structures,
 
 ### Smart Banking System — Loan Eligibility Checker — C++
 A robust banking simulation engine that evaluates loan eligibility through a multi-factor decision model incorporating age, income, and credit score, using nested conditional logic and layered validation to mirror real-world underwriting rules used by financial institutions.
+*Logic:* Validates applicant age (21–60), calculates a base loan amount from monthly income tiers, and adjusts the final amount based on credit score bands (denied below 600, reduced above 600, full amount above 750).
+[View Repository](https://github.com/maryammmashfaq24-arch/Smart-Banking-Loan-Checker)
 
 ### Python Fundamentals — Advanced Practice Suite
-An extensive, expert-level collection of Python programs demonstrating mastery of control flow, recursion, complex data structures such as lists, tuples, and dictionaries, along with algorithmic pattern generation and optimized problem-solving techniques.
-
-### Image Classification Model — Deep Learning with TensorFlow and Keras
-A production-grade Convolutional Neural Network pipeline for multi-class image classification, featuring data augmentation, transfer learning, and hyperparameter tuning to maximize model accuracy and generalization on unseen data.
-
-### Intelligent Chatbot System — Natural Language Processing
-An NLP-driven conversational agent combining intent recognition, tokenization, and context management to deliver accurate, human-like responses, architected for extensibility into more advanced transformer-based language models.
-
-### Data Analysis and Visualization Engine — Pandas and NumPy
-A comprehensive data science project performing end-to-end data cleaning, statistical analysis, and visualization on real-world datasets, delivering actionable insights through advanced charting and correlation analysis techniques.
+An extensive, expert-level collection of Python programs demonstrating mastery of control flow, recursion, complex data structures such as lists, tuples, and dictionaries, along with algorithmic pattern generation and optimized problem-solving techniques.(ongoing)
 
 ---
 
