@@ -7,7 +7,8 @@
 
  
 <p>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=FF4FA3&center=true&vCenter=true&width=650&lines=AI+Student;C%2B%2B+Developer;Python+Developer;Problem+Solver" alt="Roles" />
+<img
+ src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=FF4FA3&center=true&vCenter=true&width=650&lines=AI+Student;C%2B%2B+Developer;Python+Developer;Problem+Solver" alt="Roles" />
 </p>
   
   
