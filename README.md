@@ -5,6 +5,7 @@
  
 <p>
 <img
+ 
  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=FF4FA3&center=true&vCenter=true&width=650&lines=AI+Student;C%2B%2B+Developer;Python+Developer;Problem+Solver" alt="Roles" />
 </p>  
   
@@ -29,9 +30,6 @@
 
 ---
 
-  
-            
-
 ## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="30" />About Me 
 
 > "If you want to be the best, you have to work more than the rest."
@@ -47,7 +45,7 @@
  
 ## Tech Stack & Skills
 <div align="center">
-
+ 
 ### Programming Languages:
 <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="70" alt="C++" />
 <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" alt="Python" />
@@ -110,12 +108,14 @@
     <td width="50%" valign="top">
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=maryammmashfaq24-arch&theme=dark&hide_border=true&bg_color=0D1117&ring_color=FF4FA3&title_color=FF4FA3&text_color=C9D1D9&icon_color=FF4FA3&include_all_commits=false&count_private=false" width="100%" style="display:block; margin:0;" alt="GitHub Stats" />
       <br/>
+     
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maryammmashfaq24-arch&theme=dark&hide_border=true&background=0D1117&stroke=0000&ring=FF4FA3&fire=FF4FA3&currStreakLabel=FF4FA3" width="100%" height="195"  style="display:block; margin:0;" alt="Streak Stats" />
       <br/>
      
       <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=maryammmashfaq24-arch&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF4FA3&text_color=C9D1D9&layout=compact" width="100%" style="display:block; margin:0;" alt="Top Languages" />
     </td>
     <td width="50%" valign="center">
+    
       <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="100%" alt="Programming GIF" />
     </td>
   </tr>
@@ -181,4 +181,5 @@ An extensive, expert-level collection of Python programs demonstrating mastery o
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4FA3,100:0A0A0A&height=100&section=footer" />
+ 
 </div>
