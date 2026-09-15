@@ -2,10 +2,8 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated Line"/>
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi there! I'm   Maryam Ashfaq  </h1>
- 
 <p>
 <img
- 
  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=FF4FA3&center=true&vCenter=true&width=650&lines=AI+Student;C%2B%2B+Developer;Python+Developer;Problem+Solver" alt="Roles" />
 </p>  
   
