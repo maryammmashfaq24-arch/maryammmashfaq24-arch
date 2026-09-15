@@ -2,9 +2,6 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated Line"/>
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi there! I'm   Maryam Ashfaq  </h1>
-
-
-
  
 <p>
 <img
@@ -115,6 +112,7 @@
       <br/>
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maryammmashfaq24-arch&theme=dark&hide_border=true&background=0D1117&stroke=0000&ring=FF4FA3&fire=FF4FA3&currStreakLabel=FF4FA3" width="100%" height="195"  style="display:block; margin:0;" alt="Streak Stats" />
       <br/>
+     
       <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=maryammmashfaq24-arch&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF4FA3&text_color=C9D1D9&layout=compact" width="100%" style="display:block; margin:0;" alt="Top Languages" />
     </td>
     <td width="50%" valign="center">
@@ -134,7 +132,6 @@
 ---
 
 ## Projects
-
 ### Library Management System — C++
 An advanced console-based library management system engineered using structures, pointers, dynamic memory management, and file handling for persistent data storage. Implements efficient search and sort algorithms for large-scale book record handling, along with a modular architecture for issuing, reserving, updating, and deleting records at scale.
 [View Repository](https://github.com/maryammmashfaq24-arch/Library-Management-System-CPP)
@@ -170,7 +167,6 @@ An extensive, expert-level collection of Python programs demonstrating mastery o
 <div align="center">
 
 *Ready to learn, build, and grow together? Let's connect!*
-
 <a href="https://www.linkedin.com/in/maryam-ashfaq-282610424" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Maryam Ashfaq"/>
  </a>
