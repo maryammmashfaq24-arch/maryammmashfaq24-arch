@@ -18,8 +18,7 @@
 
 <p align="center">
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img
- src="https://komarev.com/ghpvc/?username=maryammmashfaq24-arch&color=FF4FA3&style=for-the-badge&label=PROFILE+VIEWS">
+    <img src="https://komarev.com/ghpvc/?username=maryammmashfaq24-arch&color=FF4FA3&style=for-the-badge&label=PROFILE+VIEWS">
 </a>
 <a href="https://github.com/maryammmashfaq24-arch?tab=followers"><img src="https://img.shields.io/github/followers/maryammmashfaq24-arch?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
@@ -105,15 +104,12 @@
   <tr>
     <td width="50%" valign="top">
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=maryammmashfaq24-arch&theme=dark&hide_border=true&bg_color=0D1117&ring_color=FF4FA3&title_color=FF4FA3&text_color=C9D1D9&icon_color=FF4FA3&include_all_commits=false&count_private=false" width="100%" style="display:block; margin:0;" alt="GitHub Stats" />
-      <br/>
-     
+      <br/>  
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maryammmashfaq24-arch&theme=dark&hide_border=true&background=0D1117&stroke=0000&ring=FF4FA3&fire=FF4FA3&currStreakLabel=FF4FA3" width="100%" height="195"  style="display:block; margin:0;" alt="Streak Stats" />
-      <br/>
-     
+      <br/>    
       <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=maryammmashfaq24-arch&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF4FA3&text_color=C9D1D9&layout=compact" width="100%" style="display:block; margin:0;" alt="Top Languages" />
     </td>
-    <td width="50%" valign="center">
-    
+    <td width="50%" valign="center">   
       <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="100%" alt="Programming GIF" />
     </td>
   </tr>
