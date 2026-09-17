@@ -10,12 +10,10 @@
 <h3  align="center"> AI STUDENT , C++ DEVELOPER , PYTHON DEVELOPER </h3>
 
 <p align="center">
-  <img
- src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4FA3,50:FF1493,100:0A0A0A&height=220&section=header&text=Maryam%20Ashfaq&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=AI%20Student%20%7C%20C%2B%2B%20Developer%20%7C%20Python%20Developer&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4FA3,50:FF1493,100:0A0A0A&height=220&section=header&text=Maryam%20Ashfaq&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=AI%20Student%20%7C%20C%2B%2B%20Developer%20%7C%20Python%20Developer&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Banner"/>
 </p>
 
 ---
-
 <p align="center">
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=maryammmashfaq24-arch&color=FF4FA3&style=for-the-badge&label=PROFILE+VIEWS">
@@ -26,7 +24,6 @@
 </div>
 
 ---
-
 ## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="30" />About Me 
 
 > "If you want to be the best, you have to work more than the rest."
@@ -172,7 +169,6 @@ An extensive, expert-level collection of Python programs demonstrating mastery o
  </a>
 
 </div>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4FA3,100:0A0A0A&height=100&section=footer" />
  
