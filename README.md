@@ -75,7 +75,7 @@
 <img src="https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logo=langchain&logoColor=FF4FA3" alt="LangChain" />
 <img src="https://img.shields.io/badge/OpenAI-0D1117?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
 <img src="https://img.shields.io/badge/Ollama-0D1117?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50" alt="Matplotlib" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50" alt="Matplotlib" /
 
 ### Databases:
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="80" alt="MySQL" />
@@ -121,6 +121,7 @@
 ---
 
 ## Projects
+
 ### Library Management System — C++
 An advanced console-based library management system engineered using structures, pointers, dynamic memory management, and file handling for persistent data storage. Implements efficient search and sort algorithms for large-scale book record handling, along with a modular architecture for issuing, reserving, updating, and deleting records at scale.
 [View Repository](https://github.com/maryammmashfaq24-arch/Library-Management-System-CPP)
