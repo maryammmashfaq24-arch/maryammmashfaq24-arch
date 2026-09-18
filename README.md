@@ -3,8 +3,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated Line"/>
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi there! I'm   Maryam Ashfaq  </h1>
 <p>
-<img
- src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=FF4FA3&center=true&vCenter=true&width=650&lines=AI+Student;C%2B%2B+Developer;Python+Developer;Problem+Solver" alt="Roles" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=FF4FA3&center=true&vCenter=true&width=650&lines=AI+Student;C%2B%2B+Developer;Python+Developer;Problem+Solver" alt="Roles" />
 </p>  
   
 <h3  align="center"> AI STUDENT , C++ DEVELOPER , PYTHON DEVELOPER </h3>
@@ -20,7 +19,6 @@
 </a>
 <a href="https://github.com/maryammmashfaq24-arch?tab=followers"><img src="https://img.shields.io/github/followers/maryammmashfaq24-arch?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
-
 </div>
 
 ---
@@ -167,7 +165,6 @@ An extensive, expert-level collection of Python programs demonstrating mastery o
  <a href="https://github.com/maryammmashfaq24-arch" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Maryam Ashfaq" />
  </a>
-
 </div>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4FA3,100:0A0A0A&height=100&section=footer" />
