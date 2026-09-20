@@ -155,7 +155,6 @@ An extensive, expert-level collection of Python programs demonstrating mastery o
 ## Let's Connect!
 
 <div align="center">
-
 *Ready to learn, build, and grow together? Let's connect!*
 <a href="https://www.linkedin.com/in/maryam-ashfaq-282610424" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Maryam Ashfaq"/>
@@ -167,6 +166,7 @@ An extensive, expert-level collection of Python programs demonstrating mastery o
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Maryam Ashfaq" />
  </a>
 </div>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4FA3,100:0A0A0A&height=100&section=footer" />
  
