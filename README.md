@@ -5,7 +5,7 @@
 <p>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=FF4FA3&center=true&vCenter=true&width=650&lines=AI+Student;C%2B%2B+Developer;Python+Developer;Problem+Solver" alt="Roles" />
 </p>  
-  
+ 
 <h3  align="center"> AI STUDENT , C++ DEVELOPER , PYTHON DEVELOPER </h3>
 
 <p align="center">
@@ -45,6 +45,7 @@
 <img src="https://techstack-generator.vercel.app/js-icon.svg" width="70" alt="JavaScript" />
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="80" alt="SQL" />
 <img src="https://skillicons.dev/icons?i=c,dart&theme=dark" width="90" />
+
 
 ### Computer Science Fundamentals:
 <img src="https://img.shields.io/badge/Data%20Structures-0D1117?style=for-the-badge&logo=leetcode&logoColor=00D4FF" alt="Data Structures" />
@@ -113,7 +114,6 @@
 ---
 
 ## Activity Graph
-
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=maryammmashfaq24-arch&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF4FA3&line=FF4FA3&point=FFD700" alt="Maryam's github activity graph" />
 </a>
