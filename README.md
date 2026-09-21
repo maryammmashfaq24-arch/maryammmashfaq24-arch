@@ -37,7 +37,7 @@
  
 ## Tech Stack & Skills
 <div align="center">
- 
+
 ### Programming Languages:
 <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="70" alt="C++" />
 <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" alt="Python" />
@@ -142,6 +142,7 @@ An extensive, expert-level collection of Python programs demonstrating mastery o
 - *Practicing:* C++ console applications and Python fundamentals
 - *Building:* Small real-world problem-solving projects
 - *Open To:* Beginner-friendly collaborations and learning together
+
 
 ---
 ###
