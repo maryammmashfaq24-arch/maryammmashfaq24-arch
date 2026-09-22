@@ -1,4 +1,4 @@
-<!-- Header Section -->
+ok<!-- Header Section -->
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated Line"/>
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi there! I'm   Maryam Ashfaq  </h1>
@@ -45,7 +45,6 @@
 <img src="https://techstack-generator.vercel.app/js-icon.svg" width="70" alt="JavaScript" />
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="80" alt="SQL" />
 <img src="https://skillicons.dev/icons?i=c,dart&theme=dark" width="90" />
-
 
 ### Computer Science Fundamentals:
 <img src="https://img.shields.io/badge/Data%20Structures-0D1117?style=for-the-badge&logo=leetcode&logoColor=00D4FF" alt="Data Structures" />
@@ -135,7 +134,6 @@ A robust banking simulation engine that evaluates loan eligibility through a mul
 An extensive, expert-level collection of Python programs demonstrating mastery of control flow, recursion, complex data structures such as lists, tuples, and dictionaries, along with algorithmic pattern generation and optimized problem-solving techniques.(ongoing)
 
 ---
-
 ## Current Focus
 
 - *Learning:* Data Structures, Algorithms, and core AI concepts
@@ -169,6 +167,5 @@ An extensive, expert-level collection of Python programs demonstrating mastery o
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4FA3,100:0A0A0A&height=100&section=footer" />
- 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4FA3,100:0A0A0A&height=100&section=footer" /> 
 </div>
