@@ -4,7 +4,7 @@ ok<!-- Header Section -->
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi there! I'm   Maryam Ashfaq  </h1>
 <p>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=FF4FA3&center=true&vCenter=true&width=650&lines=AI+Student;C%2B%2B+Developer;Python+Developer;Problem+Solver" alt="Roles" />
-</p>  
+</p> 
  
 <h3  align="center"> AI STUDENT , C++ DEVELOPER , PYTHON DEVELOPER </h3>
 
@@ -32,7 +32,6 @@ ok<!-- Header Section -->
 - *Ask Me About:* Data Structures, C++, OOP, and console-based application development </br> 
 - *Education:* Bachelor's in Artificial Intelligence at COMSATS University Islamabad, Lahore Campus </br> 
 - *Location:* Pakistan
-
 ---
  
 ## Tech Stack & Skills
@@ -168,4 +167,5 @@ An extensive, expert-level collection of Python programs demonstrating mastery o
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4FA3,100:0A0A0A&height=100&section=footer" /> 
+
 </div>
