@@ -12,6 +12,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4FA3,50:FF1493,100:0A0A0A&height=220&section=header&text=Maryam%20Ashfaq&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=AI%20Student%20%7C%20C%2B%2B%20Developer%20%7C%20Python%20Developer&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Banner"/>
 </p>
 
+
 ---
 <p align="center">
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
@@ -55,6 +56,7 @@
 ### Frontend & Mobile Development:
 <img src="https://techstack-generator.vercel.app/react-icon.svg" width="60" alt="React" />
 <img src="https://skillicons.dev/icons?i=nextjs,html,css,tailwind,flutter&theme=dark" width="300" />
+
 ### Backend Development:
 <img src="https://techstack-generator.vercel.app/django-icon.svg" width="40" alt="Django" />
 <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express&theme=dark" width="230" />
@@ -114,7 +116,6 @@
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=maryammmashfaq24-arch&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF4FA3&line=FF4FA3&point=FFD700" alt="Maryam's github activity graph" />
 </a>
-
 ---
 
 
@@ -140,14 +141,12 @@ An extensive, expert-level collection of Python programs demonstrating mastery o
 - *Building:* Small real-world problem-solving projects
 - *Open To:* Beginner-friendly collaborations and learning together
 
-
 ---
 ###
 <h2 align="center">Profile View</h1>
 <div align="center">
   <img src="https://count.getloli.com/@:maryammmashfaq24-arch?theme=booru-twifanartsfw&padding=7&scale=1&align=top&pixelated=1&darkmode=1"  />
 </div>
-
 ---
 
 ## Let's Connect!
@@ -165,8 +164,6 @@ An extensive, expert-level collection of Python programs demonstrating mastery o
  </a>
 </div>
 
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4FA3,100:0A0A0A&height=100&section=footer" /> 
-
 </div>
