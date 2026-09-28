@@ -12,7 +12,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4FA3,50:FF1493,100:0A0A0A&height=220&section=header&text=Maryam%20Ashfaq&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=AI%20Student%20%7C%20C%2B%2B%20Developer%20%7C%20Python%20Developer&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Banner"/>
 </p>
 
-
 ---
 <p align="center">
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
@@ -21,7 +20,6 @@
 <a href="https://github.com/maryammmashfaq24-arch?tab=followers"><img src="https://img.shields.io/github/followers/maryammmashfaq24-arch?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
 </div>
-
 ---
 ## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="30" />About Me 
 
@@ -53,6 +51,7 @@
 <img src="https://img.shields.io/badge/File%20Handling-0D1117?style=for-the-badge&logo=files&logoColor=00D4FF" alt="File Handling" />
 <img src="https://img.shields.io/badge/Problem%20Solving-0D1117?style=for-the-badge&logo=codeforces&logoColor=00D4FF" alt="Problem Solving" />
 
+
 ### Frontend & Mobile Development:
 <img src="https://techstack-generator.vercel.app/react-icon.svg" width="60" alt="React" />
 <img src="https://skillicons.dev/icons?i=nextjs,html,css,tailwind,flutter&theme=dark" width="300" />
@@ -60,6 +59,7 @@
 ### Backend Development:
 <img src="https://techstack-generator.vercel.app/django-icon.svg" width="40" alt="Django" />
 <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express&theme=dark" width="230" />
+
 
 ### AI & Machine Learning Tools:
 <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pytorch,anaconda&theme=dark" width="224" />
@@ -77,6 +77,7 @@
 <img src="https://img.shields.io/badge/OpenAI-0D1117?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
 <img src="https://img.shields.io/badge/Ollama-0D1117?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50" alt="Matplotlib" /
+
 
 ### Databases:
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="80" alt="MySQL" />
@@ -112,12 +113,13 @@
 </table>
 ---
 
+
 ## Activity Graph
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=maryammmashfaq24-arch&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF4FA3&line=FF4FA3&point=FFD700" alt="Maryam's github activity graph" />
 </a>
----
 
+---
 
 ## Projects
 
@@ -165,5 +167,6 @@ An extensive, expert-level collection of Python programs demonstrating mastery o
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4FA3,100:0A0A0A&height=100&section=footer" /> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4FA3,100:0A0A0A&height=100&section=footer" />
+ 
 </div>
