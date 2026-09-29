@@ -88,6 +88,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0A0A0A,100:FF4FA3&height=150&section=header&text=Learning%20by%20Building&fontSize=34&fontColor=FFFFFF&fontAlignY=52&rotate=13&animation=fadeIn" width="100%" alt="Banner"/>
 </p>
+
 ---
 ### GitHub Stats:
 <table>
@@ -129,6 +130,7 @@ A robust banking simulation engine that evaluates loan eligibility through a mul
 An extensive, expert-level collection of Python programs demonstrating mastery of control flow, recursion, complex data structures such as lists, tuples, and dictionaries, along with algorithmic pattern generation and optimized problem-solving techniques.(ongoing)
 
 ---
+
 ## Current Focus
 - *Learning:* Data Structures, Algorithms, and core AI concepts
 - *Practicing:* C++ console applications and Python fundamentals
@@ -136,6 +138,7 @@ An extensive, expert-level collection of Python programs demonstrating mastery o
 - *Open To:* Beginner-friendly collaborations and learning together
 
 ---
+
 ###
 <h2 align="center">Profile View</h1>
 <div align="center">
@@ -143,7 +146,6 @@ An extensive, expert-level collection of Python programs demonstrating mastery o
 </div>
 
 ---
-
 ## Let's Connect!
 
 <div align="center">
@@ -161,4 +163,5 @@ An extensive, expert-level collection of Python programs demonstrating mastery o
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4FA3,100:0A0A0A&height=100&section=footer" />
+  
 </div>
