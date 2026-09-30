@@ -32,8 +32,10 @@
    
 ---
 
+
 ## Tech Stack & Skills
 <div align="center">
+
 
 ### Programming Languages:
 <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="70" alt="C++" />
@@ -43,11 +45,13 @@
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="80" alt="SQL" />
 <img src="https://skillicons.dev/icons?i=c,dart&theme=dark" width="90" />
 
+
 ### Computer Science Fundamentals:
 <img src="https://img.shields.io/badge/Data%20Structures-0D1117?style=for-the-badge&logo=leetcode&logoColor=00D4FF" alt="Data Structures" />
 <img src="https://img.shields.io/badge/OOP-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00D4FF" alt="OOP" />
 <img src="https://img.shields.io/badge/File%20Handling-0D1117?style=for-the-badge&logo=files&logoColor=00D4FF" alt="File Handling" />
 <img src="https://img.shields.io/badge/Problem%20Solving-0D1117?style=for-the-badge&logo=codeforces&logoColor=00D4FF" alt="Problem Solving" />
+
 
 ### Frontend & Mobile Development:
 <img src="https://techstack-generator.vercel.app/react-icon.svg" width="60" alt="React" />
@@ -56,6 +60,7 @@
 ### Backend Development:
 <img src="https://techstack-generator.vercel.app/django-icon.svg" width="40" alt="Django" />
 <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express&theme=dark" width="230" />
+
 
 ### AI & Machine Learning Tools:
 <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pytorch,anaconda&theme=dark" width="224" />
@@ -74,9 +79,11 @@
 <img src="https://img.shields.io/badge/Ollama-0D1117?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50" alt="Matplotlib" /
 
+
 ### Databases:
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="80" alt="MySQL" />
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,sqlite&theme=dark" width="270" />
+
 
 ### Tools & Technologies:
 <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="60" alt="Docker" />
@@ -115,19 +122,23 @@
 ---
 ## Projects
 
+
 ### Library Management System — C++
 An advanced console-based library management system engineered using structures, pointers, dynamic memory management, and file handling for persistent data storage. Implements efficient search and sort algorithms for large-scale book record handling, along with a modular architecture for issuing, reserving, updating, and deleting records at scale.
 [View Repository](https://github.com/maryammmashfaq24-arch/Library-Management-System-CPP)
+
 
 ### Smart Banking System — Loan Eligibility Checker — C++
 A robust banking simulation engine that evaluates loan eligibility through a multi-factor decision model incorporating age, income, and credit score, using nested conditional logic and layered validation to mirror real-world underwriting rules used by financial institutions.
 *Logic:* Validates applicant age (21–60), calculates a base loan amount from monthly income tiers, and adjusts the final amount based on credit score bands (denied below 600, reduced above 600, full amount above 750).
 [View Repository](https://github.com/maryammmashfaq24-arch/Smart-Banking-Loan-Checker)
 
+
 ### Python Fundamentals — Advanced Practice Suite
 An extensive, expert-level collection of Python programs demonstrating mastery of control flow, recursion, complex data structures such as lists, tuples, and dictionaries, along with algorithmic pattern generation and optimized problem-solving techniques.(ongoing)
 
 ---
+
 ## Current Focus
 - *Learning:* Data Structures, Algorithms, and core AI concepts
 - *Practicing:* C++ console applications and Python fundamentals
@@ -140,6 +151,7 @@ An extensive, expert-level collection of Python programs demonstrating mastery o
 <div align="center">
   <img src="https://count.getloli.com/@:maryammmashfaq24-arch?theme=booru-twifanartsfw&padding=7&scale=1&align=top&pixelated=1&darkmode=1"  />
 </div>
+
 ---
 
 ## Let's Connect!
@@ -159,4 +171,5 @@ An extensive, expert-level collection of Python programs demonstrating mastery o
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4FA3,100:0A0A0A&height=100&section=footer" /> 
+
 </div>
