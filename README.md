@@ -28,8 +28,7 @@
 - *Looking to Collaborate:* Beginner-friendly C++ and Python projects, AI learning projects </br> 
 - *Ask Me About:* Data Structures, C++, OOP, and console-based application development </br> 
 - *Education:* Bachelor's in Artificial Intelligence at COMSATS University Islamabad, Lahore Campus </br> 
-- *Location:* Pakistan
-   
+- *Location:* Pakistan 
 ---
 
 ## Tech Stack & Skills
@@ -72,7 +71,7 @@
 <img src="https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logo=langchain&logoColor=FF4FA3" alt="LangChain" />
 <img src="https://img.shields.io/badge/OpenAI-0D1117?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
 <img src="https://img.shields.io/badge/Ollama-0D1117?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50" alt="Matplotlib" /
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50" alt="Matplotlib" />
 
 ### Databases:
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="80" alt="MySQL" />
@@ -112,11 +111,9 @@
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=maryammmashfaq24-arch&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF4FA3&line=FF4FA3&point=FFD700" alt="Maryam's github activity graph" />
 </a>
-
 ---
 
 ## Projects
-
 
 ### Library Management System — C++
 An advanced console-based library management system engineered using structures, pointers, dynamic memory management, and file handling for persistent data storage. Implements efficient search and sort algorithms for large-scale book record handling, along with a modular architecture for issuing, reserving, updating, and deleting records at scale.
@@ -127,12 +124,9 @@ A robust banking simulation engine that evaluates loan eligibility through a mul
 *Logic:* Validates applicant age (21–60), calculates a base loan amount from monthly income tiers, and adjusts the final amount based on credit score bands (denied below 600, reduced above 600, full amount above 750).
 [View Repository](https://github.com/maryammmashfaq24-arch/Smart-Banking-Loan-Checker)
 
-
 ### Python Fundamentals — Advanced Practice Suite
 An extensive, expert-level collection of Python programs demonstrating mastery of control flow, recursion, complex data structures such as lists, tuples, and dictionaries, along with algorithmic pattern generation and optimized problem-solving techniques.(ongoing)
-
 ---
-
 
 ## Current Focus
 - *Learning:* Data Structures, Algorithms, and core AI concepts
@@ -146,7 +140,6 @@ An extensive, expert-level collection of Python programs demonstrating mastery o
 <div align="center">
   <img src="https://count.getloli.com/@:maryammmashfaq24-arch?theme=booru-twifanartsfw&padding=7&scale=1&align=top&pixelated=1&darkmode=1"  />
 </div>
-
 ---
 
 ## Let's Connect!
