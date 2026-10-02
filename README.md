@@ -10,7 +10,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4FA3,50:FF1493,100:0A0A0A&height=220&section=header&text=Maryam%20Ashfaq&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=AI%20Student%20%7C%20C%2B%2B%20Developer%20%7C%20Python%20Developer&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Banner"/>
 </p>
----
+
 <p align="center">
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=maryammmashfaq24-arch&color=FF4FA3&style=for-the-badge&label=PROFILE+VIEWS">
@@ -18,7 +18,7 @@
 <a href="https://github.com/maryammmashfaq24-arch?tab=followers"><img src="https://img.shields.io/github/followers/maryammmashfaq24-arch?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
 </div>
----
+
 ## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="30" />About Me 
 
 > "If you want to be the best, you have to work more than the rest."
@@ -29,11 +29,9 @@
 - *Ask Me About:* Data Structures, C++, OOP, and console-based application development </br> 
 - *Education:* Bachelor's in Artificial Intelligence at COMSATS University Islamabad, Lahore Campus </br> 
 - *Location:* Pakistan 
----
 
 ## Tech Stack & Skills
 <div align="center">
-
 
 ### Programming Languages:
 <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="70" alt="C++" />
@@ -43,23 +41,19 @@
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="80" alt="SQL" />
 <img src="https://skillicons.dev/icons?i=c,dart&theme=dark" width="90" />
 
-
 ### Computer Science Fundamentals:
 <img src="https://img.shields.io/badge/Data%20Structures-0D1117?style=for-the-badge&logo=leetcode&logoColor=00D4FF" alt="Data Structures" />
 <img src="https://img.shields.io/badge/OOP-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00D4FF" alt="OOP" />
 <img src="https://img.shields.io/badge/File%20Handling-0D1117?style=for-the-badge&logo=files&logoColor=00D4FF" alt="File Handling" />
 <img src="https://img.shields.io/badge/Problem%20Solving-0D1117?style=for-the-badge&logo=codeforces&logoColor=00D4FF" alt="Problem Solving" />
 
-
 ### Frontend & Mobile Development:
 <img src="https://techstack-generator.vercel.app/react-icon.svg" width="60" alt="React" />
 <img src="https://skillicons.dev/icons?i=nextjs,html,css,tailwind,flutter&theme=dark" width="300" />
 
-
 ### Backend Development:
 <img src="https://techstack-generator.vercel.app/django-icon.svg" width="40" alt="Django" />
 <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express&theme=dark" width="230" />
-
 
 ### AI & Machine Learning Tools:
 <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pytorch,anaconda&theme=dark" width="224" />
@@ -78,7 +72,6 @@
 <img src="https://img.shields.io/badge/Ollama-0D1117?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50" alt="Matplotlib" />
 
-
 ### Databases:
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="80" alt="MySQL" />
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,sqlite&theme=dark" width="270" />
@@ -94,8 +87,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0A0A0A,100:FF4FA3&height=150&section=header&text=Learning%20by%20Building&fontSize=34&fontColor=FFFFFF&fontAlignY=52&rotate=13&animation=fadeIn" width="100%" alt="Banner"/>
 </p>
----
-
 
 ### GitHub Stats:
 <table>
@@ -112,22 +103,17 @@
     </td>
   </tr>
 </table>
----
-
 
 ## Activity Graph
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=maryammmashfaq24-arch&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF4FA3&line=FF4FA3&point=FFD700" alt="Maryam's github activity graph" />
 </a>
----
 
 ## Projects
-
 
 ### Library Management System — C++
 An advanced console-based library management system engineered using structures, pointers, dynamic memory management, and file handling for persistent data storage. Implements efficient search and sort algorithms for large-scale book record handling, along with a modular architecture for issuing, reserving, updating, and deleting records at scale.
 [View Repository](https://github.com/maryammmashfaq24-arch/Library-Management-System-CPP)
-
 
 ### Smart Banking System — Loan Eligibility Checker — C++
 A robust banking simulation engine that evaluates loan eligibility through a multi-factor decision model incorporating age, income, and credit score, using nested conditional logic and layered validation to mirror real-world underwriting rules used by financial institutions.
@@ -136,25 +122,20 @@ A robust banking simulation engine that evaluates loan eligibility through a mul
 
 ### Python Fundamentals — Advanced Practice Suite
 An extensive, expert-level collection of Python programs demonstrating mastery of control flow, recursion, complex data structures such as lists, tuples, and dictionaries, along with algorithmic pattern generation and optimized problem-solving techniques.(ongoing)
----
-
 
 ## Current Focus
 - *Learning:* Data Structures, Algorithms, and core AI concepts
 - *Practicing:* C++ console applications and Python fundamentals
 - *Building:* Small real-world problem-solving projects
 - *Open To:* Beginner-friendly collaborations and learning together
----
 
 ###
 <h2 align="center">Profile View</h1>
 <div align="center">
   <img src="https://count.getloli.com/@:maryammmashfaq24-arch?theme=booru-twifanartsfw&padding=7&scale=1&align=top&pixelated=1&darkmode=1"  />
 </div>
----
 
 ## Let's Connect!
-
 <div align="center">
 *Ready to learn, build, and grow together? Let's connect!*
 <a href="https://www.linkedin.com/in/maryam-ashfaq-282610424" target="_blank">
