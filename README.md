@@ -1,4 +1,4 @@
-ok<!-- Header Section -->
+deok<!-- Header Section -->
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated Line"/>
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi there! I'm   Maryam Ashfaq  </h1>
@@ -109,7 +109,9 @@ ok<!-- Header Section -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=maryammmashfaq24-arch&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF4FA3&line=FF4FA3&point=FFD700" alt="Maryam's github activity graph" />
 </a>
 
+
 ## Projects
+
 
 ### Library Management System — C++
 An advanced console-based library management system engineered using structures, pointers, dynamic memory management, and file handling for persistent data storage. Implements efficient search and sort algorithms for large-scale book record handling, along with a modular architecture for issuing, reserving, updating, and deleting records at scale.
@@ -135,6 +137,7 @@ An extensive, expert-level collection of Python programs demonstrating mastery o
   <img src="https://count.getloli.com/@:maryammmashfaq24-arch?theme=booru-twifanartsfw&padding=7&scale=1&align=top&pixelated=1&darkmode=1"  />
 </div>
 
+
 ## Let's Connect!
 <div align="center">
 *Ready to learn, build, and grow together? Let's connect!*
@@ -151,4 +154,5 @@ An extensive, expert-level collection of Python programs demonstrating mastery o
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4FA3,100:0A0A0A&height=100&section=footer" />
+
 </div>
