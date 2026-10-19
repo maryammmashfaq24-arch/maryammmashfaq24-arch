@@ -30,7 +30,6 @@
 - *Education:* Bachelor's in Artificial Intelligence at COMSATS University Islamabad, Lahore Campus </br> 
 - *Location:* Pakistan 
 
-
 ## Tech Stack & Skills
 <div align="center">
   
@@ -89,7 +88,6 @@
   <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0A0A0A,100:FF4FA3&height=150&section=header&text=Learning%20by%20Building&fontSize=34&fontColor=FFFFFF&fontAlignY=52&rotate=13&animation=fadeIn" width="100%" alt="Banner"/>
 </p>
 
-
 ### GitHub Stats:
 <table>
   <tr>
@@ -106,12 +104,10 @@
   </tr>
 </table>
 
-
 ## Activity Graph
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=maryammmashfaq24-arch&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF4FA3&line=FF4FA3&point=FFD700" alt="Maryam's github activity graph" />
 </a>
-
 
 ## Projects
 
@@ -140,7 +136,6 @@ An extensive, expert-level collection of Python programs demonstrating mastery o
   <img src="https://count.getloli.com/@:maryammmashfaq24-arch?theme=booru-twifanartsfw&padding=7&scale=1&align=top&pixelated=1&darkmode=1"  />
 </div>
 
-
 ## Let's Connect!
 <div align="center">
 *Ready to learn, build, and grow together? Let's connect!*
@@ -157,6 +152,4 @@ An extensive, expert-level collection of Python programs demonstrating mastery o
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4FA3,100:0A0A0A&height=100&section=footer" />
-
-
 </div>
