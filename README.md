@@ -135,6 +135,7 @@ An extensive, expert-level collection of Python programs demonstrating mastery o
   <img src="https://count.getloli.com/@:maryammmashfaq24-arch?theme=booru-twifanartsfw&padding=7&scale=1&align=top&pixelated=1&darkmode=1"  />
 </div>
 
+
 ## Let's Connect!
 <div align="center">
 *Ready to learn, build, and grow together? Let's connect!*
@@ -151,6 +152,5 @@ An extensive, expert-level collection of Python programs demonstrating mastery o
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4FA3,100:0A0A0A&height=100&section=footer" />
-
-
+  
 </div>
