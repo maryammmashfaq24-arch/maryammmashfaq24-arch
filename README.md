@@ -110,7 +110,6 @@
 </a>
 
 ## Projects
-
 ### Library Management System — C++
 An advanced console-based library management system engineered using structures, pointers, dynamic memory management, and file handling for persistent data storage. Implements efficient search and sort algorithms for large-scale book record handling, along with a modular architecture for issuing, reserving, updating, and deleting records at scale.
 [View Repository](https://github.com/maryammmashfaq24-arch/Library-Management-System-CPP)
@@ -122,7 +121,6 @@ A robust banking simulation engine that evaluates loan eligibility through a mul
 
 ### Python Fundamentals — Advanced Practice Suite
 An extensive, expert-level collection of Python programs demonstrating mastery of control flow, recursion, complex data structures such as lists, tuples, and dictionaries, along with algorithmic pattern generation and optimized problem-solving techniques.(ongoing).
-
 
 ## Current Focus
 - *Learning:* Data Structures, Algorithms, and core AI concepts
@@ -152,5 +150,4 @@ An extensive, expert-level collection of Python programs demonstrating mastery o
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4FA3,100:0A0A0A&height=100&section=footer" />
-
 </div>
