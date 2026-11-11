@@ -104,10 +104,12 @@
   </tr>
 </table>
 
+
 ## Activity Graph
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=maryammmashfaq24-arch&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF4FA3&line=FF4FA3&point=FFD700" alt="Maryam's github activity graph" />
 </a>
+
 
 ## Projects
 
@@ -122,6 +124,7 @@ A robust banking simulation engine that evaluates loan eligibility through a mul
 
 ### Python Fundamentals — Advanced Practice Suite
 An extensive, expert-level collection of Python programs demonstrating mastery of control flow, recursion, complex data structures such as lists, tuples, and dictionaries, along with algorithmic pattern generation and optimized problem-solving techniques.(ongoing).
+
 
 ## Current Focus
 - *Learning:* Data Structures, Algorithms, and core AI concepts
@@ -151,6 +154,5 @@ An extensive, expert-level collection of Python programs demonstrating mastery o
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4FA3,100:0A0A0A&height=100&section=footer" />
-
 
 </div>
