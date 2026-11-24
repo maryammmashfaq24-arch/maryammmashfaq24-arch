@@ -88,7 +88,6 @@
   <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0A0A0A,100:FF4FA3&height=150&section=header&text=Learning%20by%20Building&fontSize=34&fontColor=FFFFFF&fontAlignY=52&rotate=13&animation=fadeIn" width="100%" alt="Banner"/>
 </p>
 
-
 ### GitHub Stats:
 <table>
   <tr>
@@ -109,7 +108,6 @@
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=maryammmashfaq24-arch&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF4FA3&line=FF4FA3&point=FFD700" alt="Maryam's github activity graph" />
 </a>
-
 
 ## Projects
 
@@ -153,5 +151,6 @@ An extensive, expert-level collection of Python programs demonstrating mastery o
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4FA3,100:0A0A0A&height=100&section=footer" />
+
 
 </div>
